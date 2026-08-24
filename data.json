@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "type": "link",
+      "title": "250 Coins + 5 Diamonds",
+      "date": "2026-08-24",
+      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6SmpxZDdYQksiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
+      "reward": "250 Coins + 5 Diamonds",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "type": "code",
+      "title": "250 coins + 5 diamonds",
+      "date": "2026-08-24",
+      "code": "UNOMOBILEGIFTCODE",
+      "reward": "250 coins + 5 diamonds",
+      "status": "active",
+      "id": 2
+    },
+    {
+      "type": "link",
+      "title": "Daily Free Coins",
+      "date": "2026-08-24",
+      "url": "https://bit.ly/3v27JAb",
+      "reward": "200 Coins",
+      "status": "active",
+      "id": 3
+    },
+    {
+      "type": "link",
+      "title": "UNO Mobile Reward Link",
+      "date": "2026-08-24",
+      "url": "https://store.mattel163.com/uno",
+      "reward": "",
+      "status": "active",
+      "id": 4
+    }
+  ]
+}
