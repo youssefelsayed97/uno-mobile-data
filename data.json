@@ -1,247 +1,90 @@
-{
-  "items": [
-    {
-      "type": "code",
-      "title": "250 coins + 5 diamonds",
-      "date": "2026-09-13",
-      "code": "UNOMOBILEGIFTCODE",
-      "reward": "250 coins + 5 diamonds",
-      "status": "active",
-      "id": 2
-    },
-    {
-      "type": "link",
-      "title": "Daily Free Coins",
-      "date": "2026-09-13",
-      "url": "https://bit.ly/3v27JAb",
-      "reward": "200 Coins",
-      "status": "active",
-      "id": 3
-    },
-    {
-      "type": "link",
-      "title": "Daily Login Rewards",
-      "date": "2026-09-13",
-      "url": "https://store.mattel163.com/uno",
-      "reward": "Not specified",
-      "status": "active",
-      "id": 4
-    },
-    {
-      "type": "link",
-      "title": "4-Star Card Packs",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6SkJ3Qjc0Z0MiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 14
-    },
-    {
-      "type": "link",
-      "title": "1 UCS 2026 Qualification Tournament Ticket",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6SUtwNURXbUkiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 15
-    },
-    {
-      "type": "link",
-      "title": "5-Star Card Pack",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlRldTVqZ1o5QkMiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 16
-    },
-    {
-      "type": "link",
-      "title": "Two 4-Star Card Packs",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlR5MG1GOVk1OFMiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "Two 4-Star Card Packs",
-      "status": "active",
-      "id": 17
-    },
-    {
-      "type": "link",
-      "title": "Free 500 Coins",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVKQ1FZSWtoTGsiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "500 Coins",
-      "status": "active",
-      "id": 18
-    },
-    {
-      "type": "link",
-      "title": "Free 500 Coins",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlUwdXdtQnpxSmsiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "500 Coins",
-      "status": "active",
-      "id": 19
-    },
-    {
-      "type": "link",
-      "title": "Free 500 Coins",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlUwdlZ1MERrSU0iLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "500 Coins",
-      "status": "active",
-      "id": 20
-    },
-    {
-      "type": "link",
-      "title": "Two 4-Star Card Packs",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlUwdlBRRHJ2NHMiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "Two 4-Star Card Packs",
-      "status": "active",
-      "id": 21
-    },
-    {
-      "type": "link",
-      "title": "Free 500 Coins",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlUwdXNxc01CZXEiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "500 Coins",
-      "status": "active",
-      "id": 22
-    },
-    {
-      "type": "link",
-      "title": "Two 4-Star Card Packs",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlUwdWtIbEFFNkUiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "Two 4-Star Card Packs",
-      "status": "active",
-      "id": 23
-    },
-    {
-      "type": "link",
-      "title": "100 Baskets",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlUwdWVPOW9oMEUiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "100 Baskets",
-      "status": "active",
-      "id": 24
-    },
-    {
-      "type": "link",
-      "title": "1 UCS Qualification Ticket",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVKcHljcVNxejQiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 25
-    },
-    {
-      "type": "link",
-      "title": "500 Coins",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVKRDJtcFRXQ20iLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "500 Coins",
-      "status": "active",
-      "id": 26
-    },
-    {
-      "type": "link",
-      "title": "Free 500 Coins",
-      "date": "2026-09-13",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVKQ2tqM2N5c1UiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "500 Coins",
-      "status": "active",
-      "id": 27
-    },
-    {
-      "type": "link",
-      "title": "Two 4-Star Card Packs",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6Sm9HSDA3djgiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "Two 4-Star Card Packs",
-      "status": "active",
-      "id": 5
-    },
-    {
-      "type": "link",
-      "title": "250 Coins and 5 Diamonds",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6SmpxZDdYQksiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "250 Coins + 5 Diamonds",
-      "status": "active",
-      "id": 1
-    },
-    {
-      "type": "link",
-      "title": "250 Coins and 5 Diamonds",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6SlRFb3lwRm8iLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "250 Coins + 5 Diamonds",
-      "status": "active",
-      "id": 6
-    },
-    {
-      "type": "link",
-      "title": "1 UCS 2026 Qualification Tournament Ticket",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6SnRhek9GWnEiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 7
-    },
-    {
-      "type": "link",
-      "title": "10 Puzzle Pieces",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlRldEV2ams0dTAiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "10 Puzzle Pieces",
-      "status": "active",
-      "id": 8
-    },
-    {
-      "type": "link",
-      "title": "1 UCS 2026 Qualification Tournament Ticket",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6SWNyaFg5bnMiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 9
-    },
-    {
-      "type": "link",
-      "title": "Two 4-Star Card Packs",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlRldFhhMkFRbGUiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "Two 4-Star Card Packs",
-      "status": "active",
-      "id": 10
-    },
-    {
-      "type": "link",
-      "title": "1 UCS 2026 Qualification Tournament Ticket",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlN6SVhSQkRlam8iLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 11
-    },
-    {
-      "type": "link",
-      "title": "1 UCS 2026 Qualification Tournament Ticket",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlRldHF0b3Jrd2MiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 12
-    },
-    {
-      "type": "link",
-      "title": "1 UCS 2026 Qualification Tournament Ticket",
-      "date": "2026-08-30",
-      "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlRldGpYMnNIQVciLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
-      "reward": "",
-      "status": "active",
-      "id": 13
-    }
-  ]
-}
+[
+  {
+    "type": "link",
+    "title": "Two 4-Star Card Packs",
+    "date": "2026-09-24",
+    "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVtNlc5THNBZ2siLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
+    "reward": "Two 4-Star Card Packs",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "Free 500 Coins",
+    "date": "2026-09-24",
+    "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVzc25Vd2w1b2ciLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
+    "reward": "500 Coins",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "1 UCS Invitation Ticket",
+    "date": "2026-09-24",
+    "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVzdm1IWHlNR3ciLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
+    "reward": "",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "Free 500 Coins",
+    "date": "2026-09-24",
+    "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVzc21EQXVMRDYiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
+    "reward": "500 Coins",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "Free 500 Coins",
+    "date": "2026-09-24",
+    "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlV2WVdOTWNwQlEiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
+    "reward": "500 Coins",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "Free 500 Coins",
+    "date": "2026-09-24",
+    "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVzc2pHWjlqM2EiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
+    "reward": "500 Coins",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "Free 10 Paint Brushes",
+    "date": "2026-09-24",
+    "url": "https://link.mattel163.com/deeplink/1000000/1/_/index.html?extra=eyJ0IjoiUGxheSBVTk8hIEFueXRpbWUgYW5kIGFueXdoZXJlISIsImMiOiJVTk8hIE1vYmlsZSBpcyBvbiB0aGUgbW92ZSEgUGxheSBhIG1hdGNoIGluIDMgbWludXRlcyBvciBsZXNzISIsImlkIjoiMlVzdjdqdFJhclkiLCJpb3NpZCI6IjEzNDQ3MDAxNDIiLCJncGsiOiJjb20ubWF0dGVsanYudW5vIiwic3BrIjoiY29tLm1hdHRlbGp2LnVuby5zYW1zdW5nIiwiYXBrIjoiY29tLm1hdHRlbGp2LnVuby5hbWF6b24iLCJnYW1lIjoxMDAwMDAwLCJzZ2FtZSI6IjRDOTIiLCJ0aWQiOjEsImxvdCI6IiIsInMiOjF9",
+    "reward": "",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "Free 10 Paint Brushes",
+    "date": "2026-09-24",
+    "url": "https://g.m163.io/2UsukDmsOYK",
+    "reward": "",
+    "status": "active"
+  },
+  {
+    "type": "code",
+    "title": "250 coins + 5 diamonds",
+    "date": "2026-09-24",
+    "code": "UNOMOBILEGIFTCODE",
+    "reward": "250 coins + 5 diamonds",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "Daily Free Coins",
+    "date": "2026-09-24",
+    "url": "https://bit.ly/3v27JAb",
+    "reward": "200 Coins",
+    "status": "active"
+  },
+  {
+    "type": "link",
+    "title": "Daily Login Rewards",
+    "date": "2026-09-24",
+    "url": "https://store.mattel163.com/uno",
+    "reward": "Not specified",
+    "status": "active"
+  }
+]
